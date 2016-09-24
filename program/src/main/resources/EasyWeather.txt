@@ -1,4 +1,4 @@
-No	Time	Interval	Indoor_Humidity	Indoor_Temperature	Outdoor_Humidity	Outdoor_Temperature	Absolute_Pressure	Wind	Gust	Direction	Relative_Pressure	Dewpoint	Windchill	Hour_Rainfall	24_hour_Rainfall	Week_Rainfall	Month_Rainfall	Total_Rainfall	Wind_Level	Gust_Level
+No	Time	Interval	Indoor_Humidity	Indoor_Temperature	Outdoor_Humidity	Outdoor_Temperature	Absolute_Pressure	Wind	Gust	Direction	Relative_Pressure	Dewpoint	Windchill	Hour_Rainfall	a24_hour_Rainfall	Week_Rainfall	Month_Rainfall	Total_Rainfall	Wind_Level	Gust_Level
 1	24-01-2014 22:09	30	59	7.1	99	9.8	---	0.0	0.0	N	---	9.7	9.8	0.0	0.0	0.0	0.0	0.0	0	0
 2	24-01-2014 22:14	5	0	0.0	0	0.0	---	0.0	0.0	N	---	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0
 3	24-01-2014 22:44	30	60	7.2	99	9.9	952.0	1.1	6.1	NW	1033.7	9.8	9.9	33.0	33.0	33.0	33.0	33.0	1	2
